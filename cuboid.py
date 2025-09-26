@@ -1,0 +1,5 @@
+l=int(input("enter length"))
+b=int(input("enter breath"))
+h=int(input("rnter height"))
+a=2*(l*b+b*h+h*l)
+print("the area is:",a)
